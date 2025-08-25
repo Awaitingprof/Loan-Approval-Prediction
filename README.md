@@ -7,7 +7,7 @@ Predicting whether a loan application will be **approved or denied** using **Log
 This project tackles a common real-world financial classification problem:  
 **Will an individual’s loan application be approved based on demographic and financial attributes?**  
 
-By applying logistic regression, I focus mainly on identifying the factors most influencing loan approval decisions and evaluating the model’s predictive performance.
+By applying logistic regression, I focus on identifying the factors most influencing loan approval decisions and evaluating the model’s predictive performance.
 
 ## Dataset
 The dataset contains demographic, socio-economic, and financial details of loan applicants.  
